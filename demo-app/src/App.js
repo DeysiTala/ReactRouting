@@ -206,16 +206,16 @@ const HTML = () => {
 
   return Htmlc.map(item => {
     return (
-      <div> <h2> HTML </h2> </div>
-      <li key={item.id}>
-        <img src={item.image} />
-        <div>
-          <h3> {item.name}</h3>
-          <p>{item.texto}</p>
-        </div>
-      </li>
-     
-  )
+      <div> <h2> HTML </h2>
+        <li key={item.id}>
+          <img src={item.image} />
+          <div>
+            <h3> {item.name}</h3>
+            <p>{item.texto}</p>
+          </div>
+        </li>
+      </div>
+    )
   }
 
   )
@@ -223,34 +223,40 @@ const HTML = () => {
 
 
 const CSS = () => {
- return Ccss.map( item =>{
-   return (
-     <div><h2>CSS</h2></div>
-     <li key={item.id}>
-     <img src={item.image}/>
-     <div>
-       <h3>{item.name}</h3>
-       <p>{item.texto}</p>
-       </div>
-       </li>
+  return Ccss.map(item => {
+    return (
+      <div>
+        <h2>CSS</h2>
+        <li key={item.id}>
+          <img src={item.image} />
+          <div>
+            <h3>{item.name}</h3>
+            <p>{item.texto}</p>
+          </div>
+        </li>
 
-   )
- })
+      </div>
+
+
+    )
+  })
 }
 const JavaScript = () => {
-  return JavascriptC.map( item =>{
-    return(
-      <div> <h2> JavaScript </h2> </div>
-      <li key={item.id}>
-      <img src={item.image}/>
+  return JavascriptC.map(item => {
+    return (
       <div>
-        <h3>{item.name}</h3>
-        <p>{item.texto}</p>
-        </div>
+        <h2> JavaScript </h2>
+        <li key={item.id}>
+          <img src={item.image} />
+          <div>
+            <h3>{item.name}</h3>
+            <p>{item.texto}</p>
+          </div>
         </li>
+      </div>
     )
   }
-   
+
   );
 }
 
