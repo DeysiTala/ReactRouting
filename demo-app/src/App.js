@@ -54,37 +54,38 @@ const Ccss = [
   {
     image: 'https://achievement-images.teamtreehouse.com/bagdes_html_howtobuildawebsite_stage02.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
-
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+    id: 1
   },
   {
     image: 'https://achievement-images.teamtreehouse.com/badges_html_forms_stage1.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
-
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+    id: 2
   },
   {
     image: 'https://achievement-images.teamtreehouse.com/badges-html-videoaudio-stage1.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
-
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+id: 3
   },
   {
     image: 'https://achievement-images.teamtreehouse.com/bagdes_html_howtobuildawebsite_stage02.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
-
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+id: 4
   },
   {
     image: 'https://achievement-images.teamtreehouse.com/badges_html_forms_stage1.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
-
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+id: 5
   },
   {
     image: 'https://achievement-images.teamtreehouse.com/badges-html-videoaudio-stage1.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+id: 6
   }
 ];
 
@@ -92,37 +93,38 @@ const JavascriptC = [
   {
     image: 'https://achievement-images.teamtreehouse.com/bagdes_html_howtobuildawebsite_stage02.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
-
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+    id:1
   },
   {
     image: 'https://achievement-images.teamtreehouse.com/badges_html_forms_stage1.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
-
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+    id:2
   },
   {
     image: 'https://achievement-images.teamtreehouse.com/badges-html-videoaudio-stage1.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
-
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+    id: 3
   },
   {
     image: 'https://achievement-images.teamtreehouse.com/bagdes_html_howtobuildawebsite_stage02.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
-
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+    id:4
   },
   {
     image: 'https://achievement-images.teamtreehouse.com/badges_html_forms_stage1.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
-
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+    id: 5
   },
   {
     image: 'https://achievement-images.teamtreehouse.com/badges-html-videoaudio-stage1.png',
     name: "How to Make a Website",
-    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web."
+    texto: "If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax.Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.",
+    id:6
   }
 ];
 
@@ -206,7 +208,7 @@ const HTML = () => {
 
   return Htmlc.map(item => {
     return (
-      <div> <h2> HTML </h2>
+      <div> 
         <li key={item.id}>
           <img src={item.image} />
           <div>
@@ -226,7 +228,7 @@ const CSS = () => {
   return Ccss.map(item => {
     return (
       <div>
-        <h2>CSS</h2>
+       
         <li key={item.id}>
           <img src={item.image} />
           <div>
@@ -245,7 +247,7 @@ const JavaScript = () => {
   return JavascriptC.map(item => {
     return (
       <div>
-        <h2> JavaScript </h2>
+       
         <li key={item.id}>
           <img src={item.image} />
           <div>
